@@ -1,0 +1,5 @@
+{
+  "name": "ChatZone",
+  "description": "A real-time chat application with public and private rooms, user roles, and multi-language support, powered by AI to enhance conversations.",
+  "requestFramePermissions": []
+}
